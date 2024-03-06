@@ -1,0 +1,200 @@
+{
+  "1": {
+    "id": 1,
+    "name": "Doodle Jump",
+    "description": "Doodle Jump is a classic platforming game where you guide a bouncing character through a series of platforms, avoiding obstacles and enemies. Test your reflexes and see how high you can go!",
+    "thumb": "https://www.w3technic.com/wp-content/uploads/2022/05/doodle-jump.jpeg",
+    "link": "https://doodlejump.io"
+  },
+  "2": {
+    "id": 2,
+    "name": "Flappy Bird",
+    "description": "Flappy Bird is a notoriously challenging game where you control a bird, navigating through a series of pipes. It's a test of precision and timing. Can you beat your high score?",
+    "thumb": "https://www.w3technic.com/wp-content/uploads/2022/05/flappy-bird.webp",
+    "link": "https://flappybird.ee"
+  },
+  "3": {
+    "id": 3,
+    "name": "Chrome Dino",
+    "description": "Chrome Dino is the offline dinosaur game from Google Chrome. Jump over cacti and avoid pterodactyls in this simple yet addictive endless runner. How far can you run?",
+    "thumb": "https://www.w3technic.com/wp-content/uploads/2022/05/chrome-dino.webp",
+    "link": "https://chromedino.io"
+  },
+  "4": {
+    "id": 4,
+    "name": "Slope Unblocked",
+    "description": "Slope Unblocked Game is a fast-paced 3D running game where you navigate a ball through a neon-colored world, dodging obstacles and trying to stay on the endless slope. Can you keep up?",
+    "thumb": "https://www.w3technic.com/wp-content/uploads/2022/05/slope.webp",
+    "link": "https://playslope.io"
+  },
+  "5": {
+    "id": 5,
+    "name": "Cookie Clicker",
+    "description": "Cookie Clicker is an addictive incremental game where you click to produce cookies. Upgrade your cookie production and see how many cookies you can bake. Warning: Highly addictive!",
+    "thumb": "https://www.w3technic.com/wp-content/uploads/2022/05/cookie-clicker.webp",
+    "link": "https://cookieclicker.ee"
+  },
+  "6": {
+    "id": 6,
+    "name": "Retro Bowl",
+    "description": "Retro Bowl is a throwback to classic football video games. Manage your team, make strategic decisions, and lead them to victory. Can you build a championship-winning team?",
+    "thumb": "https://www.w3technic.com/wp-content/uploads/2022/05/retro-bowl-150x150.webp",
+    "link": "https://retrobowl.ee"
+  },
+  "7": {
+    "id": 7,
+    "name": "Super Mario",
+    "description": "Super Mario is the iconic plumber's adventure through the Mushroom Kingdom. Jump, stomp on enemies, and collect coins on your quest to rescue Princess Peach from the villainous Bowser.",
+    "thumb": "https://www.w3technic.com/wp-content/uploads/2022/05/super-mario.webp",
+    "link": "https://supermario.ee"
+  },
+  "8": {
+    "id": 8,
+    "name": "2048 Original",
+    "description": "2048 Original is a puzzle game where you slide numbered tiles on a grid to combine them and reach the elusive 2048 tile. It's a brain-teasing challenge that requires strategy and planning.",
+    "thumb": "https://www.w3technic.com/wp-content/uploads/2022/05/2048.webp",
+    "link": "https://2048.ee"
+  },
+  "9": {
+    "id": 9,
+    "name": "2048 Doge",
+    "description": "2048 Doge puts a cute and furry twist on the classic 2048 puzzle. Slide and combine Doge-themed tiles to reach the highest score. Doge lovers, this one's for you!",
+    "thumb": "https://www.w3technic.com/wp-content/uploads/2022/05/2048-doge.webp",
+    "link": "https://2048.ee/doge"
+  },
+  "10": {
+    "id": 10,
+    "name": "2048 Cupcakes",
+    "description": "2048 Cupcakes adds a sweet and delicious theme to the popular 2048 puzzle. Merge cupcake tiles and aim for the highest score in this tasty variation of the original game.",
+    "thumb": "https://www.w3technic.com/wp-content/uploads/2022/05/2048-cupcakes.webp",
+    "link": "https://2048.ee/cupcakes"
+  },
+  "11": {
+    "id": 11,
+    "name": "Tic Tac Toe (New)",
+    "description": "Tic Tac Toe (New) is a modern take on the classic game of Xs and Os. Play against a friend or challenge the computer. Strategic thinking is key to claiming victory in this timeless game.",
+    "thumb": "https://www.w3technic.com/wp-content/uploads/2022/05/tictactoe.png",
+    "link": "https://tictactoe.ee"
+  },
+  "12": {
+    "id": 12,
+    "name": "Pacman",
+    "description": "Pacman is the legendary arcade game where you control the iconic yellow character, gobbling up dots and avoiding ghosts. Navigate the maze and see how many levels you can conquer.",
+    "thumb": "https://www.w3technic.com/wp-content/uploads/2022/05/pacman-150x150.png",
+    "link": "https://pacman.ee"
+  },
+  "13": {
+    "id": 13,
+    "name": "Plant vs Zombies",
+    "description": "Plant vs Zombies is a tower defense game where you strategically place plants to fend off waves of zombies. Protect your home and garden from the undead in this engaging and humorous game.",
+    "thumb": "https://www.w3technic.com/wp-content/uploads/2022/05/pvz.png",
+    "link": "https://pvz.ee"
+  },
+  "14": {
+    "id": 14,
+    "name": "Minesweeper",
+    "description": "Minesweeper is a classic puzzle game where you clear a grid without detonating hidden mines. Use logic and deduction to uncover safe tiles and avoid the explosive hazards beneath.",
+    "thumb": "https://www.w3technic.com/wp-content/uploads/2022/05/minesweeper.png",
+    "link": "https://minesweeper.ee"
+  },
+  "15": {
+    "id": 15,
+    "name": "Pong Game",
+    "description": "Pong Game is the original arcade tennis game. Control paddles and bounce a ball back and forth in this simple yet addictive challenge. Compete against the computer or a friend for Pong supremacy.",
+    "thumb": "https://www.w3technic.com/wp-content/uploads/2022/05/pong-game.webp",
+    "link": "https://ponggame.io"
+  },
+  "16": {
+    "id": 16,
+    "name": "Donkey Kong",
+    "description": "Donkey Kong is a classic arcade game featuring the iconic Nintendo characters Mario and Donkey Kong. Climb ladders, avoid barrels, and rescue the damsel in distress in this timeless platformer.",
+    "thumb": "https://www.w3technic.com/wp-content/uploads/2022/05/donkey-kong-150x150.png",
+    "link": "https://kong.ee"
+  },
+  "17": {
+    "id": 17,
+    "name": "Sonic",
+    "description": "Sonic the Hedgehog is a high-speed platformer featuring the famous blue hedgehog, Sonic. Race through colorful levels, collect rings, and defeat Dr. Robotnik in this beloved classic.",
+    "thumb": "https://www.w3technic.com/wp-content/uploads/2022/05/sonic-150x150.png",
+    "link": "https://sonic.ee"
+  },
+  "18": {
+    "id": 18,
+    "name": "Space Invaders",
+    "description": "Space Invaders is the iconic arcade shooter where you defend Earth from descending alien invaders. Move your spaceship left and right, shoot, and dodge the incoming alien onslaught.",
+    "thumb": "https://www.w3technic.com/wp-content/uploads/2022/05/invaders-150x150.png",
+    "link": "https://invaders.ee"
+  },
+  "19": {
+    "id": 19,
+    "name": "Galaga",
+    "description": "Galaga is a classic arcade shooter where you control a spaceship, battling waves of insect-like alien invaders. Capture your ship's lost allies for enhanced firepower in this timeless space shooter.",
+    "thumb": "https://www.w3technic.com/wp-content/uploads/2022/05/galaga-150x150.png",
+    "link": "https://galaga.ee"
+  },
+  "20": {
+    "id": 20,
+    "name": "Frogger",
+    "description": "Frogger is the retro arcade game where you guide a frog across busy roads and rivers, avoiding obstacles and predators. Test your reflexes and help the frog reach its destination safely.",
+    "thumb": "https://www.w3technic.com/wp-content/uploads/2022/05/frogger-150x150.png",
+    "link": "https://frogger.ee"
+  },
+  "21": {
+    "id": 21,
+    "name": "Age of War",
+    "description": "Age of War is a strategy game that spans different eras of warfare. Build your army, evolve through the ages, and engage in epic battles. Can you lead your civilization to victory?",
+    "thumb": "https://www.w3technic.com/wp-content/uploads/2022/05/aow-150x150.png",
+    "link": "https://aow.ee"
+  },
+  "22": {
+    "id": 22,
+    "name": "Water Sort",
+    "description": "Water Sort is a challenging puzzle game where you sort colored water in tubes. Exercise your logic and problem-solving skills to complete each level. Can you master the art of water sorting?",
+    "thumb": "https://www.w3technic.com/wp-content/uploads/2022/05/water-sort.webp",
+    "link": "https://watersortgame.com"
+  },
+  "23": {
+    "id": 23,
+    "name": "Wordle",
+    "description": "Wordle is a word puzzle game where you guess a secret five-letter word by suggesting words and receiving feedback. Sharpen your vocabulary and deduction skills in this addictive word challenge.",
+    "thumb": "https://www.w3technic.com/wp-content/uploads/2022/05/wordle.webp",
+    "link": "https://playwordle.io"
+  },
+  "24": {
+    "id": 24,
+    "name": "Free Mahjong",
+    "description": "Free Mahjong is a classic tile-matching game where you clear the board by pairing identical tiles. Immerse yourself in the ancient Chinese game of Mahjong and enjoy the relaxing gameplay.",
+    "thumb": "https://www.w3technic.com/wp-content/uploads/2022/05/mahjong.webp",
+    "link": "https://freemahjong.io"
+  },
+  "25": {
+    "id": 25,
+    "name": "Chess Online",
+    "description": "Chess Online lets you engage in strategic battles on the chessboard against players from around the world. Test your tactical skills, plan your moves, and checkmate your opponents in this timeless game of intellect.",
+    "thumb": "https://www.w3technic.com/wp-content/uploads/2022/05/chess.webp",
+    "link": "https://chesswai.com"
+  },
+  "26": {
+    "id": 26,
+    "name": "Mu H5 Online",
+    "description": "Mu H5 Online brings the world of fantasy RPGs to your browser. Embark on epic quests, defeat monsters, and level up your character in this immersive and engaging online multiplayer game.",
+    "thumb": "https://www.w3technic.com/wp-content/uploads/2022/05/mu-h5.png",
+    "link": "http://muh5z.com"
+  },
+  "27": {
+    "id": 27,
+    "name": "Temple Run 2",
+    "description": "Temple Run 2 is the exhilarating endless runner where you navigate perilous paths, slide under obstacles, and dodge treacherous traps. How far can you run in this heart-pounding adventure?",
+    "thumb": "https://www.w3technic.com/wp-content/uploads/2022/05/temple-run-2.png",
+    "link": "https://templerun.ee"
+  },
+  "28": {
+    "id": 28,
+    "name": "Subway Surfers",
+    "description": "Subway Surfers is a fast-paced endless runner set in the bustling subway. Dash through trains, dodge obstacles, and collect coins in this adrenaline-pumping challenge. Can you outrun the inspector?",
+    "thumb": "https://www.w3technic.com/wp-content/uploads/2022/05/subway-surfers.png",
+    "link": "https://subwaysurfers.ee"
+  }
+}
+
+  
