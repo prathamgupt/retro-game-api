@@ -195,9 +195,36 @@
     "thumb": "https://www.w3technic.com/wp-content/uploads/2022/05/subway-surfers.png",
     "link": "https://subwaysurfers.ee"
   },
-  "endpoints":{
-    "name":["Doodle Jump","Subway Surfers"]
+  "endpoints": {
+    "name": [
+      "Doodle Jump",
+      "Flappy Bird",
+      "Chrome Dino",
+      "Slope Unblocked",
+      "Cookie Clicker",
+      "Retro Bowl",
+      "Super Mario",
+      "2048 Original",
+      "2048 Doge",
+      "2048 Cupcakes",
+      "Tic Tac Toe (New)",
+      "Pacman",
+      "Plant vs Zombies",
+      "Minesweeper",
+      "Pong Game",
+      "Donkey Kong",
+      "Sonic",
+      "Space Invaders",
+      "Galaga",
+      "Frogger",
+      "Age of War",
+      "Water Sort",
+      "Wordle",
+      "Free Mahjong",
+      "Chess Online",
+      "Mu H5 Online",
+      "Temple Run 2",
+      "Subway Surfers"
+    ]
   }
 }
-
-  
