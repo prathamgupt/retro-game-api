@@ -194,6 +194,9 @@
     "description": "Subway Surfers is a fast-paced endless runner set in the bustling subway. Dash through trains, dodge obstacles, and collect coins in this adrenaline-pumping challenge. Can you outrun the inspector?",
     "thumb": "https://www.w3technic.com/wp-content/uploads/2022/05/subway-surfers.png",
     "link": "https://subwaysurfers.ee"
+  },
+  "endpoints":{
+    "name":["Doodle Jump","Subway Surfers"]
   }
 }
 
